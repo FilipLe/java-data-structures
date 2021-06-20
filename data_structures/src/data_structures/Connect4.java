@@ -33,7 +33,9 @@ public class Connect4 {
 		
 		System.out.println("Player 2, please enter your character: ");
 		String player2 = scan.nextLine();
-		while(player1 == player2)
+		while(player1 == player2) {
+			
+		}
 	}
 
 }
